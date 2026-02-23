@@ -49,5 +49,145 @@
     "g3_mf1": "KSHarp_G3_mf1.wav",
     "g5_f1": "KSHarp_G5_f1.wav",
     "g5_mf1": "KSHarp_G5_mf1.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "E1",
+      "sample": "e1_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G1",
+      "sample": "g1_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B1",
+      "sample": "b1_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "d2_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F2",
+      "sample": "f2_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "a2_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "c3_f2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "e3_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "g3_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B3",
+      "sample": "b3_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "d4_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "f4_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "a4_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "c5_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "e5_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "g5_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B5",
+      "sample": "b5_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D6",
+      "sample": "d6_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F6",
+      "sample": "f6_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A6",
+      "sample": "a6_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B6",
+      "sample": "b6_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D7",
+      "sample": "d7_f1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F7",
+      "sample": "f7_f1",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
